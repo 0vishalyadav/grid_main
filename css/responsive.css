@@ -1,0 +1,32 @@
+@media (max-width: 768px) {
+  .first-layout {
+    min-height: 50vh;
+  }
+
+  .text-container {
+    padding: 10px 0;
+    text-align: center;
+  }
+
+  .min-tag {
+    font-size: 32px;
+  }
+
+  .black-box h2 {
+    font-size: 24px;
+  }
+
+  .black-box h2 span {
+    font-weight: 400;
+    font-size: 32px;
+  }
+
+  .bottom-section {
+    flex-direction: column;
+  }
+
+  .contact-me h1,
+  .about-me h1 {
+    font-size: 32px;
+  }
+}
